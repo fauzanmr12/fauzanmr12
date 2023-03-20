@@ -1,5 +1,5 @@
-👋 Hi, i'm Muhammad Fauzan Amir
-🌱 I’m currently learning Android with Kotlin
+### 👋 Hi, i'm Muhammad Fauzan Amir
+### 🌱 I’m currently learning Android with Kotlin
 <!--
 **fauzancyberarmy/fauzancyberarmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
